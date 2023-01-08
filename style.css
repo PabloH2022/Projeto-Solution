@@ -34,6 +34,7 @@ div#menu3 > img#pontos3 {
  div#menu2 {
      padding-top: 0px;
  }
+ 
  div > a:hover {
     zoom: 1.2;
     transition-delay: 0.5s;
@@ -77,6 +78,7 @@ div#menu3 > img#pontos3 {
     margin-top: 15px;
     margin-left: 200px;
     border-radius: 5px;
+    box-shadow: 2px 2px 8px rgba(22, 21, 21, 0.605);
     }
 
 article#caixa02 {
@@ -87,6 +89,7 @@ article#caixa02 {
     margin-top: 20px;
     margin-left: 200px;
     border-radius: 5px;
+    box-shadow: 2px 2px 8px rgba(22, 21, 21, 0.605);
 
 }
 img#thor {
