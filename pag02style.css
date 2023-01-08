@@ -44,7 +44,7 @@ div#menu3 > img#pontos3 {
     color: white;
     text-align: right;
     margin-top: -98vh;
-    margin-right: 30vw;   
+    margin-right: 25vw;   
     
  }
 
@@ -67,6 +67,7 @@ div#menu3 > img#pontos3 {
  h3 {
     text-align: center;
     padding: 20px;
+    margin-top: 20px;
     
  }
  article#caixa01 {
@@ -75,7 +76,7 @@ div#menu3 > img#pontos3 {
     height: 300px;
     width: 200px;
     margin-top: 15px;
-    margin-left: 200px;
+    margin-left: 180px;
     border-radius: 5px;
     }
 
@@ -85,7 +86,7 @@ article#caixa02 {
     height: 300px;
     width: 200px;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 180px;
     border-radius: 5px;
 
 }
